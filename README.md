@@ -1,4 +1,4 @@
-# Hi, I'm Briant 👋
+# Hi, I'm Jeryco 👋
 
 🎓 Senior High School Student (Grade 12) from Indonesia  
 💻 Passionate about Computer Science, Software Development, and Technology  
