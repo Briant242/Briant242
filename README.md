@@ -59,8 +59,9 @@ I am a Grade 12 High School student passionate about **Software Engineering, Com
 
 <br>
 
+<!-- Activity Graph (Bebas Error GitHub API) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briant242&theme=dracula&background=181024&stroke=a855f7&alarm=c084fc&fire=c084fc&ring=a855f7&sidehours=a855f7&sideevent=a855f7&dates=e9d5ff&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Briant242&theme=react-dark&bg_color=181024&color=c084fc&line=a855f7&point=e9d5ff&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
