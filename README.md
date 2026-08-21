@@ -45,8 +45,8 @@ I am a Grade 12 High School student passionate about **Software Engineering, Com
 
 | Project | Description | Status | Link |
 | :--- | :--- | :---: | :---: |
-| 🐍 **CS50P Showcase** | Interactive progress tracker & notes for Harvard's CS50P course. | 🔄 *Active* | [Explore Repo](./cs50p-showcase) |
-| 🚀 **KIBO-RPC 2026** | Space robot navigation algorithms for JAXA/NASA Astrobee simulation. | 🛠️ *In Dev* | [Explore Repo](./kibo-rpc-2026) |
+| 🐍 **CS50P Showcase** | Interactive progress tracker & notes for Harvard's CS50P course. | 🔄 *Active* | [Explore Repo](https://github.com/Briant242/cs50p-showcase) |
+| 🚀 **KIBO-RPC 2026** | Space robot navigation algorithms for JAXA/NASA Astrobee simulation. | 🛠️ *In Dev* | [Explore Repo](https://github.com/Briant242/kibo-rpc-2026) |
 
 ---
 
@@ -59,7 +59,7 @@ I am a Grade 12 High School student passionate about **Software Engineering, Com
 
 <br>
 
-<!-- Activity Graph (Bebas Error GitHub API) -->
+<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Briant242&theme=react-dark&bg_color=181024&color=c084fc&line=a855f7&point=e9d5ff&hide_border=true" alt="Activity Graph" />
 </div>
